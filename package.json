@@ -1,0 +1,16 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "Learning DSA from frontend masters 'The Last Algorithm Course You'll Need'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.7.23",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {}
+}
