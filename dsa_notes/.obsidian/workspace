@@ -7,8 +7,12 @@
         "id": "c0f12d21df81adb3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Linear Search.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linear Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linear Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linear Search.md"
+              }
             }
           }
         ]
@@ -122,9 +130,13 @@
   },
   "active": "c0f12d21df81adb3",
   "lastOpenFiles": [
+    "Binary Search.md",
+    "bigO.md",
+    "Linear Search.md",
+    "2022-09-30.md",
+    "test.md",
     "node_modules/typescript/SECURITY.md",
     "src/basics/bigO.md",
-    "Linear Search.md",
     "basics/bigO.md"
   ]
 }

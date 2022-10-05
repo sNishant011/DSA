@@ -28,7 +28,6 @@ function sum_char_codes(n: string): number {
 - For every character in the string 'n', one computation is to be done.
 
 - The time space complexity of above code is O(N) but not O(2N).
-For [[Linear Search]] the time complexity is O(N).
 
 
 ## Important Concepts
